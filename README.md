@@ -4,7 +4,7 @@ A full-stack home services booking platform connecting customers with service pr
 
 ## 🚀 Live Demo
 
-**Deploy Link:** [Add your Vercel/Netlify URL here after deployment]
+**Deploy Link:** [https://clean-fanatics.vercel.app/](https://clean-fanatics.vercel.app/)
 
 ## 📋 Features
 
